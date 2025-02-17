@@ -1,5 +1,8 @@
 # Execution Local project Movies APP (HTML/CSS/JavaScript).
 
+Indications by desing:
+- Actually is the first version by mobile devices, therefore, it is necessary to simulate the executions to visualize a design with an excellent user experience on mobile devices.
+
 If you need to execute the presente project, please firts do it the next steps:
 - Go to the URL: https://www.themoviedb.org/, where the REST API used to implement the project is currently hosted. The project is executed using the Axios library with the Node.js programming language.
 - Next, please create your respective API_KEY by following the steps at the bottom of the URL mentioned in the previous step, in the section related to the API. *Please note that you must request a developer mode subscription to avoid issues or failures when generating your own API_KEY*.
